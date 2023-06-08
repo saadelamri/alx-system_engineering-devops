@@ -1,1 +1,1 @@
-Shell permissions
+My shell basics readme
